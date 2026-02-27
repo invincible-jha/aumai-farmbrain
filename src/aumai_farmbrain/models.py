@@ -5,7 +5,9 @@ from __future__ import annotations
 from pydantic import BaseModel, Field, field_validator
 
 AGRICULTURAL_DISCLAIMER = (
-    "Verify recommendations with local agricultural experts before application."
+    "This tool provides AI-assisted agricultural analysis only. Verify all recommendations"
+    " with local agricultural experts and government extension services before application."
+    " Crop yields and soil recommendations are estimates based on limited data."
 )
 
 __all__ = [

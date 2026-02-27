@@ -91,7 +91,7 @@ def crops(show_list: bool, season: str | None) -> None:
 
 @main.command("serve")
 @click.option("--port", default=8000, help="Port to serve on")
-@click.option("--host", default="0.0.0.0", help="Host to bind to")
+@click.option("--host", default="127.0.0.1", help="Host to bind to")
 def serve(port: int, host: str) -> None:
     """Start the FarmBrain API server."""
     try:

@@ -1,0 +1,4 @@
+# file: M:\Project DarkMatter\workspace\aumai-farmbrain\src\aumai_farmbrain\cli.py
+# hypothesis_version: 6.151.9
+
+[8000, '\nFERTILIZER PLAN:', '\nRECOMMENDATIONS:', '\nRISK ALERTS:', '-', '--crop', '--host', '--list', '--port', '--season', '--soil', '--weather', '0.0.0.0', 'Host to bind to', 'Port to serve on', '__main__', 'advise', 'crops', 'serve', 'show_list', 'soil_file', 'weather_file']

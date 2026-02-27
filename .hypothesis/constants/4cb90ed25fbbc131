@@ -1,0 +1,4 @@
+# file: M:\Project DarkMatter\workspace\aumai-farmbrain\src\aumai_farmbrain\models.py
+# hypothesis_version: 6.151.9
+
+[0.0, 14.0, 100.0, 'Crop', 'CropAdvisory', 'Soil pH (0-14)', 'SoilProfile', 'WeatherData', '^(kharif|rabi|zaid)$', 'season']
